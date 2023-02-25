@@ -17,6 +17,6 @@ require (
 	github.com/emersion/go-webdav v0.3.1
 	github.com/mattn/go-isatty v0.0.14
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
-	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 )
